@@ -1,0 +1,22 @@
+{
+  "name": "opensail",
+  "version": "0.0.1",
+  "description": "Lightweight blog focused solely on making content",
+  "main": "opensail.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jdholdren/OpenSailJs.git"
+  },
+  "keywords": [
+    "blogging"
+  ],
+  "author": "James Holdren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdholdren/OpenSailJs/issues"
+  },
+  "homepage": "https://github.com/jdholdren/OpenSailJs#readme"
+}
